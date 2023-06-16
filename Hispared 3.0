@@ -1,0 +1,39 @@
+{
+"name": "Hispared 3.0",
+"author" : "Hispared",
+"image": "https://i.imgur.com/bR6vta5.gif",
+"url" : "https://raw.githubusercontent.com/Hispared200/Wiseplistlay/main/Hispared%203.w3u",
+"info": "lista libre y gratis",
+"groups":
+[
+{
+"name" : "Hispafilms",
+"image" : "https://i.imgur.com/bR6vta5.gif",
+"online":"true",	
+"url" : "https://raw.githubusercontent.com/Hispared200/Wiseplistlay/main/Hispapelis%203.w3u",
+"info":"Hispared",
+"import": false
+},
+{
+"name" : "Hispakids",
+"image":"https://i.imgur.com/L4gxUtr.gif",
+"url": "https://raw.githubusercontent.com/Hispared200/Wiseplistlay/main/Hispakids%203.w3u",
+"info":"Hispared",
+"import": false
+},
+{
+"name" : "Hispaseries",
+"image" : "https://i.imgur.com/K47yYJQ.gif",
+"url" : "https://raw.githubusercontent.com/Hispared200/Wiseplistlay/main/Hispaseries.w3u",
+"info":"Hispared",
+"import": false
+},
+{
+"name" : "Macedonia",
+"image" : "https://i.imgur.com/s3de6g7.gif",
+"url" : "https://raw.githubusercontent.com/Hispared200/Wiseplistlay/main/Macedonia%20list3.w3u",
+"info":"Hispared",
+"import": false
+}
+]
+}
